@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![WorldEdit](http://static.sk89q.com/readme/worldedit.png)
 =========
 
@@ -34,3 +35,6 @@ Links
 * [Issue tracker](http://youtrack.sk89q.com/issues/WORLDEDIT)
 * [Continuous integration](http://builds.enginehub.org) [![Build Status](https://travis-ci.org/sk89q/WorldEdit.svg?branch=master)](https://travis-ci.org/sk89q/WorldEdit)
 * [End-user documentation](http://wiki.sk89q.com/wiki/WorldEdit)
+=======
+# worldedit_crafter
+>>>>>>> 4f5e96bd9ea47eef940842088d87a55b0f348200
